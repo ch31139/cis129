@@ -13,6 +13,7 @@ teaTotal = tea * 3
 bagel = int(bagel)
 bagelTotal = bagel * 5
 total = coffeeTotal + muffinTotal + teaTotal + bagelTotal
+total = coffeeTotal + muffinTotal 
 taxTotal = total * .06
 print('*************************************** \n My Coffee and Muffin Shop')
 print("***************************************")
