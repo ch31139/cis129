@@ -13,6 +13,5 @@ print("*************************************** \nMy Coffee and Muffin Shop Recei
 print( coffee,"coffees at $5 each: $", coffeeTotal)
 print( muffin, "muffins at $4 each: $", muffinTotal)
 print("6% tax: $", taxTotal)
-print( total )
 print('---------')
 print( "Total: $", taxTotal + total)
