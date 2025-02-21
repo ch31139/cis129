@@ -1,4 +1,5 @@
 ## this program calculates a receiept for my coffee and muffin shop
+## 
 coffee = input("Number of coffees bought?")
 muffin = input("Number of muffins bought?")
 coffee = int(coffee)
